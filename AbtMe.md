@@ -11,10 +11,12 @@ Programming Lenguages:
 - C
 - C++
 
-Web:
-- .NET
-- HTML CSS
+Front End: 
+- HTML 
+- CSS
 - Javascript
+
+Frameworks
 - React
 
 Database:
