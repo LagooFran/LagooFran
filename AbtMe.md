@@ -8,18 +8,18 @@ Portfolio available in Github
 knowledge in:
 
 Programming Lenguages:
-Object oriented programming (C# and Python)
-C
-C++
+  Object oriented programming (C# and Python)
+  C
+  C++
 
 Web:
-.NET
-HTML CSS
-Javascript
-React
+  .NET
+  HTML CSS
+  Javascript
+  React
 
 Database:
-MySql
-Firebase
-Firebird
-MariaDb
+  MySql
+  Firebase
+  Firebird
+  MariaDb
