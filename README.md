@@ -6,7 +6,8 @@
 Knowledge in:
 
 Programming Lenguages:
-- Object oriented programming (C# and Python)
+- C#
+- Python
 - C
 - C++
 
@@ -19,6 +20,8 @@ Frameworks
 - React
 
 Database:
+- Microsoft SQL server
+- SQLite
 - MySql
 - Firebase
 - Firebird
