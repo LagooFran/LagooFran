@@ -12,3 +12,6 @@ If you want to contact me you can:
 Ill respond as quickly as possible.
 
 
+
+
+> Las cosas son sinceras, nos miente el argumento.
